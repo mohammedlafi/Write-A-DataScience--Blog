@@ -1,24 +1,21 @@
-# Foobar Write-A-DataScience--Blog
+#  Write A Data Science-Blog
 
-Foobar is a Python library for dealing with word pluralization.
+The project is a Python code for writing a data science blog.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+No installation is needed, since this is a Jupyter notebook that contains both
+the code and its output. Also, dataset used is provided.
 
-```bash
-pip install foobar
-```
+It recommended to use Anaconda distribution to install both Python 
+and the notebook application. 
+
+
+
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+Use Anaconda distribution to to run the Python Jupyter notebook.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
