@@ -5,7 +5,7 @@
 The project is a Python code for writing a data science blog.
 
 ## the motivation for the project,
-We would like to instigate the relationship or effect of the developer’s education on his/her salary satisfaction. 
+The motivation for the project to instigate the relationship or effect of the developer’s education on his/her salary satisfaction. 
 Our investigation is based on a dataset from stack overflow developer survey results from 2017. 
 
 
@@ -17,21 +17,21 @@ This questionnaire considers the following attributes regarding education: Forma
 
 
 
-
 ##  the files  in the repository are 
 
 | FILE| Description |
 | --- | --- |
-| `survey-results-pulbic    : ` | List all *new or modified* files |
-| `survey-results-schema    :` | Show file differences that **haven't been** staged |
-| `write-A-DatacScienceBlog` | Show file differences that **haven't been** staged |
+| `survey-results-pulbic    : ` |csv file that contains the results of a survery distributed to software developers vi overstack website |
+| `survey-results-schema    :` | csv file that contains the schema of the filed of the survery distributed to software developers vi overstack website|
+| `write-A-DatacScienceBlog` |   **Jupyter notebook** that contains the python code to answer question needed  in the study|
 
 # a summary of the results of the analysis, and necessary acknowledgements.
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
