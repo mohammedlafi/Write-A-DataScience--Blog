@@ -12,15 +12,15 @@ The project is a Python code for writing a data science blog.
 
 # the files in the repository with a small description of each,
 README
-survey-results-pulbic    : 
-survey-results-schema    :
+
+
 write-A-DatacScienceBlog :
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
+| `survey-results-pulbic    : ` | List all *new or modified* files |
+| `survey-results-schema    :` | Show file differences that **haven't been** staged |
+| `write-A-DatacScienceBlog` | Show file differences that **haven't been** staged |
 
 # a summary of the results of the analysis, and necessary acknowledgements.
 
