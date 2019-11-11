@@ -8,15 +8,13 @@ The project is a Python code for writing a data science blog.
 
 # communicates the libraries used,
 
+
 # the motivation for the project,
 
-# the files in the repository with a small description of each,
-README
 
+# the files  in the repository are 
 
-write-A-DatacScienceBlog :
-
-| Command | Description |
+| FILE| Description |
 | --- | --- |
 | `survey-results-pulbic    : ` | List all *new or modified* files |
 | `survey-results-schema    :` | Show file differences that **haven't been** staged |
