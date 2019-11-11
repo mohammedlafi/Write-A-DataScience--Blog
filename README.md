@@ -3,31 +3,38 @@
 # Project Title : Write a Data Science Blog Post
 
 The project is a Python code for writing a data science blog.
-
-
-## The motivation for the project
-
-The motivation for the project to instigate the relationship or effect of the developer’s education on his/her salary satisfaction. 
 Our investigation is based on a dataset from stack overflow developer survey results from 2017. 
-
-
-
-##  communicates the libraries used
-
 This data was collected using a questionnaire answered by developers around the world. 
 This questionnaire considers the following attributes regarding education: Formal Education, Major Undergraduate, and Highest Education of Parents.
  Next, we discuss these attributes and how they affect both the gained salary and percentage of developers.
 
 
 
+## The motivation for the project
+
+The motivation for the project to instigate the relationship or effect of the developer’s education on his/her salary satisfaction. 
+
+##  Libraries used
+
+
+| Library | Description |
+| --- | --- |
+| `numpy   : `   |  a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices |
+| `pandas   : `    | a software library written for the Python programming language for data manipulation and analysis. |
+| ` matplotlib.pyplo  : `      |   **a collection of command style functions that make matplotlib work like MATLABk** |
+
+
+
+
+
 ##  The files  in the repository are 
 
 | FILE    | Description |
-| --- | --- |
-| `survey-results-pulbic     : `   |csv file that contains the results of a survery distributed to software developers vi overstack website |
-| `survey-results-schema     : `    | csv file that contains the schema of the fileds of the survery distributed to software developers vi overstack website|
-| `write-A-DatacScienceBlog  : `      |   **Jupyter notebook** that contains the python code to answer question needed  in the study|
-| `README.md  : `      |  the readme file that explain the usage of this repository|
+| ---  | --- |
+| `survey-results-pulbic     : `         |csv file that contains the results of a survery distributed to software developers vi overstack website |
+| `survey-results-schema     : `         | csv file that contains the schema of the fileds of the survery distributed to software developers vi overstack website|
+| `write-A-DatacScienceBlog  : `         |   **Jupyter notebook** that contains the python code to answer question needed  in the study|
+| `README.md  : `                        |  the readme file that explain the usage of this repository|
 
 
 ## Summary of the results of the analysis
@@ -62,7 +69,7 @@ Use Anaconda distribution to to run the Python Jupyter notebook.
 
 ## Authors
 
-* **Mohammed Lafi** - *  * - [PurpleBooth](https://github.com/mohammedlafi)
+* **Mohammed Lafi** - *  * - [Mohammed Lafi](https://github.com/mohammedlafi)
 
 
 ## License
