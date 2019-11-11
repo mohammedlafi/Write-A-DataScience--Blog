@@ -2,17 +2,23 @@
 
 # Project Title : Write a Data Science Blog Post
 
-One Paragraph of project description goes here
 The project is a Python code for writing a data science blog.
 
-
-# communicates the libraries used,
-
-
-# the motivation for the project,
+## the motivation for the project,
+We would like to instigate the relationship or effect of the developer’s education on his/her salary satisfaction. 
+Our investigation is based on a dataset from stack overflow developer survey results from 2017. 
 
 
-# the files  in the repository are 
+
+##  communicates the libraries used,
+This data was collected using a questionnaire answered by developers around the world. 
+This questionnaire considers the following attributes regarding education: Formal Education, Major Undergraduate, and Highest Education of Parents.
+ Next, we discuss these attributes and how they affect both the gained salary and percentage of developers.
+
+
+
+
+##  the files  in the repository are 
 
 | FILE| Description |
 | --- | --- |
