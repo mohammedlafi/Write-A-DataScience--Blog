@@ -1,9 +1,29 @@
 
 
-# Project Title : Write A Data Science-Blog
+# Project Title : Write a Data Science Blog Post
 
 One Paragraph of project description goes here
 The project is a Python code for writing a data science blog.
+
+
+# communicates the libraries used,
+
+# the motivation for the project,
+
+# the files in the repository with a small description of each,
+README
+survey-results-pulbic    : 
+survey-results-schema    :
+write-A-DatacScienceBlog :
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
+# a summary of the results of the analysis, and necessary acknowledgements.
+
 
 ## Getting Started
 
